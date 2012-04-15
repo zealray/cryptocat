@@ -3,3 +3,9 @@
     try the Firefox plugin "html-notifications"
   * Display sensible info when JavaScript is disabled
   * Remove build.js from Android repo
+  * Grey out or cross over notification button when unsupported
+  * alt text for logo, and javascript popup asking if ok to leave chat
+  * alt text for "?" describing that that it generates random room name
+  * conditionalize login popup based on whether Chrome already installed
+  * extend login popup to also mention Chromium (not only Chrome)
+  * Fix support escaping from random number dialog (appears as frozen)
