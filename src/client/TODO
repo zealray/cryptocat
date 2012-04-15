@@ -9,3 +9,4 @@
   * conditionalize login popup based on whether Chrome already installed
   * extend login popup to also mention Chromium (not only Chrome)
   * Fix support escaping from random number dialog (appears as frozen)
+  * Use http://slexaxton.github.com/Jed/ for l10n (not hardcoded strings)
